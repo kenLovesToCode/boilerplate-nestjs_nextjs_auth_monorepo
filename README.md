@@ -15,6 +15,9 @@ $ touch tsconfig.base.json
 
 # add deps (server | client)
 $ pnpm add @package-name --filter=server
+
+# run the concurrently
+$ pnpm dev
 ```
 
 #### Railway deployment
