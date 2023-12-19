@@ -1,6 +1,9 @@
 ### NestJS | Next.js | Prisma | JWT
 
 ```bash
+# add prisma
+$ pnpm add prisma @prisma/client
+
 # initialize prisma
 $ pnpx prisma init
 
